@@ -1,5 +1,3 @@
-# Socio-IA
-Projeto criado para Imersão IA Alura e Google
 <h1 align="center">
 <br>
   <img style='background-color: #575757; padding: 8px;' src="https://cursos.alura.com.br/assets/images/immersion/imersao_ia_google_logo.png" alt="Alura_IA" width="240">
